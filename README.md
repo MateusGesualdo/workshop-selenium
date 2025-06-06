@@ -1,6 +1,5 @@
 # Workshop - Selenium
-Exemplo de uso do Selenium IDE para os alunos da Infinity School
-<a href="https://www.selenium.dev/downloads" target="_blank">aqui</a>
+Exemplo de uso do Selenium IDE
 
 ## Visão Geral
 Esse projeto foi criado durante o meu workshop na <a target="_blank" href="https://infinityschool.com.br">Infinity School</a> sobre o Selenium, um conjunto de ferramentas open source utilizadas em testes de software.
