@@ -1,6 +1,5 @@
 # Selenium IDE
 Exemplo de uso do Selenium IDE
-[Teste](https://mateusgesualdo.github.io/selenium):{target="_blank"}
 
 ## Visão Geral
 Esse projeto foi criado durante o meu workshop na <a target="_blank" href="https://infinityschool.com.br">Infinity School</a> sobre o Selenium, um conjunto de ferramentas open source utilizadas em testes de software.
