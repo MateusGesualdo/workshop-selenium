@@ -1,4 +1,4 @@
-# Workshop - Selenium
+# Selenium IDE
 Exemplo de uso do Selenium IDE
 
 ## Visão Geral
